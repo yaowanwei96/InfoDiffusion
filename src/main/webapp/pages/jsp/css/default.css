@@ -1,0 +1,178 @@
+.height-80{
+    height: 80px;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.min-height-500{
+    min-height: 660px;
+}
+
+.float-right{
+    float: right;
+}
+
+.padding-top-0{
+    padding-top: 0px;
+}
+
+.padding-top-3{
+    padding-top: 3px;
+}
+.hover-color-red:hover{
+    color: red;
+}
+
+.margin-top-0{
+    margin-top: -10px;
+    padding-top: 0px;
+}
+.nopadding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.border-bottom-1px{
+    border-bottom: 1px solid rgb(203,90,94);
+}
+.btns-round{
+    border: 0px solid red;
+
+    border-radius: 2px;
+}
+
+.padding-15px{
+    padding-left: 15px ;
+    padding-right: 15px;
+}
+
+.margin-left-5px{
+    margin-left: 10px;
+}
+
+.border-none{
+    border-width: 0px;
+    border:none;
+
+}
+
+.width-100{
+    width: 100%;
+}
+
+.file_list{
+    list-style-type: none;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    padding-left: 0px;
+}
+
+.file_list > li{
+
+    height: 25px;
+    padding-top: 2px;
+    list-style-type: none;
+}
+.file_list > li:hover{
+    background-color: #F0F0F0;
+    color: RED;
+
+}
+
+.font-white{
+    color:white;
+}
+
+.displaynone{
+    display: none;
+}
+
+.table-scrollable{
+    min-height: 400px;
+    /*border-width:0px;
+    border-top:1px solid #F0F0F0;*/
+}
+
+.dataTables_empty{
+/*    height:300px;
+    padding-top:250px;
+    background-color: white;*/
+}
+.sweet-alert{
+    z-index: 999999999999999;
+}
+.sweet-overlay{
+    z-index: 999999999999999;
+}
+
+.min-height-450{
+    min-height: 550px;
+}
+
+.min-height-650{
+    min-height: 650px;
+}
+
+.div_help{
+    width:100%;height:50px;text-align:center;margin-top: 200px;
+}
+
+@media only screen and (min-width: 180px) and (max-width: 767px){
+    .min-height-500{
+        min-height: inherit;
+    }
+
+    .div_help{
+        width:100%;height:50px;text-align:center;margin-top: 150px;margin-bottom: 150px;
+    }
+
+}
+
+.padding-right-10{
+    padding-right: 10px;
+}
+
+
+.width-300px{
+    width: 300px;
+}
+
+
+.displayblock{
+    display: block;
+}
+
+.modal-changerole{
+    margin:200px auto;
+    width:50%;
+}
+.modal-changerole-content{
+    height: auto;width:100%;
+}
+.modal-changerole-header{
+    height:30px;
+    width:100%;
+    padding-right:10px ;
+    padding-top:10px ;
+    border-width: 0px;
+}
+.modal-changerole-body{
+    margin-top: 5px;padding-top: 10px;min-height:50px;
+}
+
+.float-left{
+    float: left;
+}
+
+.margin-left-20px{
+    margin-left: 20px;
+
+}
