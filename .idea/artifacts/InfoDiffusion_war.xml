@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="InfoDiffusion:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hbhjxxfb.war">
+      <element id="artifact" artifact-name="InfoDiffusion:war exploded" />
+    </root>
+  </artifact>
+</component>
